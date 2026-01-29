@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455566048182",
+    "project_id": "fortnite-squads-dev",
+    "storage_bucket": "fortnite-squads-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455566048182:android:9f9da177d4ff1df1835f17",
+        "android_client_info": {
+          "package_name": "com.oddlycodes.fortnite_squads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNPt_wqJnwxvWUE82ka1Mf-TlV-CoWAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
